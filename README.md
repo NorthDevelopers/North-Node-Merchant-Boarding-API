@@ -10,4 +10,5 @@ When you're ready to start building your app, you can follow along with [this tu
 ## Completed App
 Your completed app will look similar to the following:
 
-![payments-hub-node-merchant-boarding-api-merchant-application](https://github.com/PaymentsHubDevelopers/PaymentsHub-Node-Merchant-Boarding-API/assets/136620102/d4218e28-cd09-4cb6-8f80-774b50c9205b)
+
+![application](https://github.com/user-attachments/assets/f86e093a-145e-4e06-a2fb-1e985bab41af)
